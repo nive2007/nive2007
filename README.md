@@ -4,6 +4,8 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
 
 -------------------
 
+<br>
+
 ## 🌱 I’m always exploring and working on becoming better than yesterday.
 
 <br>
