@@ -2,10 +2,7 @@
 
 I’m a student at Saranathan College of Engineering, Trichy. I enjoy building small tools that solve real problems and exploring new technologies.
 
-## 🌱 I’m learning
-- Advanced C programming and file-based applications  
-- Web development  
-- Cloud fundamentals (Azure)
+## 🌱 I’m always exploring and working on becoming better than yesterday.
 
 ## 💻 Projects
 - **Expense Tracker (C)** — file storage, categories and simple reports  
