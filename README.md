@@ -2,13 +2,15 @@
 
 I’m a student at Saranathan College of Engineering, Trichy. I enjoy building small tools that solve real problems and exploring new technologies.
 
-
+<br>
 
 ## 🌱 I’m always exploring and working on becoming better than yesterday.
 
-
+<br>
 
 ## 🛠 Languages and Tools
+
+<br>
 
 <p align="left">
   <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c"/>
@@ -19,24 +21,26 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
   <img width="50" height="50" src="https://img.icons8.com/color/48/azure-1.png" alt="azure"/>
 </p>
 
-
+<br>
 
 ## 📫 Reach me
 
+<br>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivethasenthilkumar25@gmail.com)
 
-
+<br>
 
 ## 📁 My Projects
 
-
+<br>
 
 ### 💡 Expense Tracker  
 🔗 **GitHub:** https://github.com/nive2007/expense-tracker  
 
 Developed using C programming. It helps you record your daily spending and stores all entries in structured files. It groups expenses by category, calculates totals and shows clear summaries so you can understand your spending habits and manage your money better.
 
-
+<br>
 
 ### 📦 Bus Reservation System  
 🔗 **GitHub:** https://github.com/nive2007/bus-reservation-system  
