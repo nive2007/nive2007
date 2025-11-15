@@ -4,10 +4,6 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
 
 ## 🌱 I’m always exploring and working on becoming better than yesterday.
 
-## 💻 Projects
-- **Expense Tracker (C)** — file storage, categories and simple reports  
-- **Bus Reservation System (C)**  
-
 ## 🛠 Languages and Tools
 
 <p align="left">
@@ -22,3 +18,8 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
 
 ## 📫 Reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivethasenthilkumar25@gmail.com)
+
+## 📁 My Projects
+
+- [Expense Tracker (C)](https://github.com/nive2007/expense-tracker)
+- [Bus Reservation System (C)](https://github.com/nive2007/bus-reservation-system)
