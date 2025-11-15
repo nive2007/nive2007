@@ -15,13 +15,15 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
 <br>
 
 <p align="left">
-  <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c"/> &nbsp;&nbsp;&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/> &nbsp;&nbsp;&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/> &nbsp;&nbsp;&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/> &nbsp;&nbsp;&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css"/> &nbsp;&nbsp;&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/color/48/azure-1.png" alt="azure"/>
 </p>
+
+
 
 <br>
 
