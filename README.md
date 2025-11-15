@@ -1,4 +1,4 @@
-# Hi — I’m Nivetha 👋
+# Hi — I’m Nivetha
 
 I’m a student at Saranathan College of Engineering, Trichy. I enjoy building small tools that solve real problems and exploring new technologies.
 
