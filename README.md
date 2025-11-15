@@ -2,7 +2,7 @@
 
 I’m a student at Saranathan College of Engineering, Trichy. I enjoy building small tools that solve real problems and exploring new technologies.
 
-<br>
+-------------------
 
 ## 🌱 I’m always exploring and working on becoming better than yesterday.
 
@@ -24,6 +24,8 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
 <br>
 
 ## 📫 Reach me
+
+<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivethasenthilkumar25@gmail.com)
 
