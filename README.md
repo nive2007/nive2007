@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi — I’m Nivetha 👋
 
-<!--
-**nive2007/nive2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student at Saranathan College of Engineering, Trichy. I enjoy building small tools that solve real problems and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🌱 I’m learning
+- Advanced C programming and file-based applications  
+- Web development  
+- Cloud fundamentals (Azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- **Expense Tracker (C)** — file storage, categories and simple reports  
+- **Bus Reservation System (C)**  
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/azure-1.png" alt="azure"/>
+</p>
+
+
+## 📫 Reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivethasenthilkumar25@gmail.com)
