@@ -25,8 +25,6 @@ I’m a student at Saranathan College of Engineering, Trichy. I enjoy building s
 
 ## 📫 Reach me
 
-<br>
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivethasenthilkumar25@gmail.com)
 
 <br>
